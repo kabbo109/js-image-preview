@@ -1,2 +1,5 @@
-# js-image-preview
-Image preview before upload using JavaScript
+# JS Image Preview
+
+A simple image preview feature built using JavaScript.
+
+This project allows users to preview an image before uploading.
